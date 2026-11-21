@@ -1,0 +1,3 @@
+Online Shopping Data Analysis
+Dataset: shopping_data.csv
+Step 1: Learn read/write operations
